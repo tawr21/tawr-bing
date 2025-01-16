@@ -1,4 +1,4 @@
-# Md. Tawheedul Islam Bhuian
+# Tawheed Islam
 
 [![Outlook](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:tawheedrony@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/tawheed-rony/)
@@ -9,16 +9,18 @@
 ### Education
 
 - **Bachelor of Science**, [Electrical and Electronic Engineering](https://eee.buet.ac.bd) ,Bangladesh University of Engineering and Technology (2017-2022)
+- **Master of Science**, [School of Computing](https://www.binghamton.edu/computer-science/index.html) ,State University of New York at Binghamton (2025-)
 
 ### Work Experience
 
-- **Software Engineer**, [Telnyx](https://telnyx.com) (April 2024 - Current)
+- **Graduate Research Assistant**, [RTLab](https://telnyx.com) (January 2025 -)
+- **Software Engineer**, [Telnyx](https://telnyx.com) (April 2024 - December 2024)
 - **Data Scientist**, [Moonfrog Labs](https://moonfroglabs.com) (October 2020 - March 2023)
 - **Data Science Intern**, [CRIDA](https://www.cridaction.org) (April 2020 - August 2020) 
 
 ### Research Interests
 
-<span>Applied Machine Learning, Deep Learning, Biomedical Signal Processing, Human-Computer Interaction, Smart Grid</span> 
+<span>Applied Machine Learning, Deep Learning, Computing & Networking of Edge Systems</span> 
 
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Some Languages and Tools
