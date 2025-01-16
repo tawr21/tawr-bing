@@ -13,7 +13,7 @@
 
 ### Work Experience
 
-- **Graduate Research Assistant**, [Real-Time Embedded Systems Laboratory (RTESL)](https://telnyx.com) (January 2025 -)
+- **Graduate Research Assistant**, [Real-Time Embedded Systems Laboratory](https://www.cs.binghamton.edu/~kang/) (January 2025 -)
 - **Software Engineer**, [Telnyx](https://telnyx.com) (April 2024 - December 2024)
 - **Data Scientist**, [Moonfrog Labs](https://moonfroglabs.com) (October 2020 - March 2023)
 - **Data Science Intern**, [CRIDA](https://www.cridaction.org) (April 2020 - August 2020) 
